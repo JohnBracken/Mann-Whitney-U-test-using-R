@@ -1,0 +1,9 @@
+> source('Z:/Aneurysm Measurement project/Statistical analysis/MannWhitneyWilcoxon_Test_AneurysmData.R')
+[1] "data.frame"
+[1] 614   2
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  AneurysmData$Ruptured.AK.data.[1:30] and AneurysmData$Unruptured.AK.data.[1:30]
+W = 613, p-value = 0.008123
+alternative hypothesis: true location shift is greater than 0
